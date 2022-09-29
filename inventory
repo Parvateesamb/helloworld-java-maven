@@ -1,2 +1,2 @@
 [web]
-34.230.47.63
+ansible_host=34.230.47.63 ansible_connection=ssh   ansible_user=centos
